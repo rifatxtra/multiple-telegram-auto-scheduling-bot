@@ -50,7 +50,7 @@ pip install telethon pandas python-dotenv pytz
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/telegram-auto-scheduler.git
+git clone https://github.com/rifatxtra/multiple-telegram-auto-scheduling-bot.git
 cd telegram-auto-scheduler
 ```
 
