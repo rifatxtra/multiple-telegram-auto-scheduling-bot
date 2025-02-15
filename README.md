@@ -77,6 +77,9 @@ cd telegram-auto-scheduler
    ACCOUNT3_API_ID=
    ACCOUNT3_API_HASH=
    ```
+   Enter phone number with country code eg: +8801********
+   if you are from usa your number will look like: +18005555555
+   dont use any space or symbol except +
    If you have more user simply add withy these format
    Replace the placeholders with your actual credentials.
    
